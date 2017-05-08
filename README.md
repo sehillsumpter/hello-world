@@ -1,5 +1,5 @@
 # hello-world
-beginning repository
+
 
 Sara Hill Sumpter is a small business consultant specializing in start-ups and expansions for small to mid-size businesses. 
 
